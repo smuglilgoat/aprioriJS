@@ -1,8 +1,8 @@
-## Apriri
+## 💻 Apriri
 
 [Apriori Algorithm](http://en.wikipedia.org/wiki/Apriori_algorithm) implementation in JavaScript
 
-## Usage
+## 🔧 Usage
     // change the minimum support and confidence
     const minSupp = 0.01;
     const minConf = 3;
