@@ -1,4 +1,4 @@
-## 💻 Apriri
+## 💻 Apriori
 
 [Apriori Algorithm](http://en.wikipedia.org/wiki/Apriori_algorithm) implementation in JavaScript
 
